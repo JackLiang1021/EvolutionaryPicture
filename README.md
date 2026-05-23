@@ -1,4 +1,4 @@
-[Display]
+[Tags] {"Python"}
 
 Inspired by [Spu7Nix](https://www.youtube.com/watch?v=6aXx6RA1IK4&t=396s)
 
